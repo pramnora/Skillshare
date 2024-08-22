@@ -25,7 +25,9 @@ Course completed: N
 
 -----
 
-#### Modern Javascript For Beginners: Part 1 - Teacher: Chris Dixon  
+#### Javascript  
+
+Modern Javascript For Beginners: Part 1 - Teacher: Chris Dixon  
 - https://www.skillshare.com/en/classes/modern-javascript-for-beginners-part-1/618955486/projects?via=watch-history  
 Course completed: N
 

@@ -1,13 +1,11 @@
 # Lua programming language  
 
 **Created**: *Thu 22 Aug 2024 02:50 AM GMT*  
-**Created**: *Thu 22 Aug 2024 02:50 AM GMT*  
+**Updated**: *Thu 22 Aug 2024 02:50 AM GMT*  
 
 -----
 
 ## Links  
-
-----
 
 ### Programming  
 

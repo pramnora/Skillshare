@@ -32,7 +32,7 @@ Course completed: N
 Course completed: N  
 
 Coding 101: Python for Beginners - Teacher: Alvin Wan  
-- https://www.skillshare.com/en/classes/coding-101-python-for-beginners/973997848/projects?via=watch-history
+- https://www.skillshare.com/en/classes/coding-101-python-for-beginners/973997848/projects?via=watch-history  
 Course completed: N  
 
 -----  

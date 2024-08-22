@@ -28,7 +28,11 @@ Course completed: N
 #### Python  
 
 30 Days of Python: Coding for Beginners - Teacher: Tony Alamo  
-- https://www.skillshare.com/en/classes/30-days-of-python-coding-for-beginners/1610492071/projects?via=watch-history
+- https://www.skillshare.com/en/classes/30-days-of-python-coding-for-beginners/1610492071/projects?via=watch-history  
+Course completed: N  
+
+Coding 101: Python for Beginners - Teacher: Alvin Wan  
+- https://www.skillshare.com/en/classes/coding-101-python-for-beginners/973997848/projects?via=watch-history
 Course completed: N  
 
 -----  

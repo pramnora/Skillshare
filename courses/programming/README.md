@@ -25,6 +25,12 @@ Course completed: N
 
 -----
 
+#### Modern Javascript For Beginners: Part 1 - Teacher: Chris Dixon  
+- https://www.skillshare.com/en/classes/modern-javascript-for-beginners-part-1/618955486/projects?via=watch-history  
+Course completed: N
+
+-----
+
 #### Python  
 
 30 Days of Python: Coding for Beginners - Teacher: Tony Alamo  

@@ -11,6 +11,12 @@
 //        CREATED: Tue 27 August 2024 18:26 PM GMT
 //        UPDATED: Tue 27 August 2024 18:26 PM GMT
 
+// ------------------------------------------------
+// This version of the code runs using NodeJS...;
+// and, so it uses the filename extension: [.js].
+// ------------------------------------------------
+
+
 var tablesNo=7;
 
 for (var timesNo=1; timesNo<=12; timesNo++){

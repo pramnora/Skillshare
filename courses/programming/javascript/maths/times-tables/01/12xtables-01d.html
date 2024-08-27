@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+   <meta charset="utf-8">
+   <title>Javascript: 12 x Tables</title>
+  </head>
+  <body>
+   <div id="idOutput"></div>
+<script>
+//***     PROGRAM: 12 x Times tables...
+//       LANGUAGE: Javascript
+
+//             OS: Linux Mint
+//    WEB BROWSER: Firefox/TOOLS: [SHIFT] + [CTRL] + [I]
+
+//         AUTHOR: Mr. Paul Ramnora
+//          EMAIL: paulramnoracoder@yahoo.com
+//         GITHUB: https://www.github.com/pramnora
+
+//        CREATED: Tue 27 August 2024 18:26 PM GMT
+//        UPDATED: Tue 27 August 2024 18:26 PM GMT
+
+
+
+function printTimesTables(tablesNo){
+
+  var strOut="";
+
+  for (var timesNo=1; timesNo<=12; timesNo++){
+
+     strOut+= timesNo + "  X " + tablesNo + " = " + timesNo*tablesNo + "<br>";
+
+  }
+
+  out=document.getElementById("idOutput");
+  out.innerHTML=strOut;  
+
+}
+
+printTimesTables(8); //...make call to Javascript function
+
+</script>
+</body>
+</html>

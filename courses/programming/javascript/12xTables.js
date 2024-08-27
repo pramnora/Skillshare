@@ -1,15 +1,15 @@
-//*** PROGRAM: 12 x Times tables...
-//   LANGUAGE: Javascript
+//***     PROGRAM: 12 x Times tables...
+//       LANGUAGE: Javascript
 
-//                   OS: Linux Mint
-//    WEB BROWSER TOOLS: Firefox/[SHIFT] + [CTRL] + [I]
+//             OS: Linux Mint
+//    WEB BROWSER: Firefox/TOOLS: [SHIFT] + [CTRL] + [I]
 
-//   AUTHOR: Mr. Paul Ramnora
-//   EMAIL: paulramnoracoder@yahoo.com
-//   GITHUB: https://www.github.com/pramnora
+//         AUTHOR: Mr. Paul Ramnora
+//          EMAIL: paulramnoracoder@yahoo.com
+//         GITHUB: https://www.github.com/pramnora
 
-//    CREATED: Tue 27 August 2024 18:26 PM GMT
-//    UPDATED: Tue 27 August 2024 18:26 PM GMT
+//        CREATED: Tue 27 August 2024 18:26 PM GMT
+//        UPDATED: Tue 27 August 2024 18:26 PM GMT
 
 var tablesNo=7;
 

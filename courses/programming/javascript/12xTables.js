@@ -16,6 +16,7 @@ var tablesNo=7;
 for (var timesNo=1; timesNo<=12; timesNo++){
 
   console.log(timesNo + "  X " + tablesNo + " = " + timesNo*tablesNo + " \n");
+
 }
 
 
